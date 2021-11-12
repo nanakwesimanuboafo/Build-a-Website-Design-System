@@ -1,0 +1,121 @@
+body{
+    background-color: #808092;
+}
+
+header h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+
+main{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.section-header{
+    font-weight: 500px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+/*colours section*/
+.colors{
+    border-bottom: 2px solid black;
+}
+
+
+.color-display{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+
+}
+.color-palette{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    font-weight: 600;
+    
+}
+
+.color-palette ul{
+    list-style: none;
+    padding-top: 150px;
+}
+
+
+.splash{
+    background-color: #91c3db;
+}
+
+
+.sky{
+    background-color: #87ceeb;
+}
+
+.moonshine{
+    background-color: #023047;
+    color: white;
+}
+
+/*colours section*/
+
+.fonts{
+    border-bottom: 2px solid black;
+}
+
+.font-display{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    font-size: 16px;
+}
+
+.ruba{
+    font-family: ruda, sans-serif;
+}
+
+.roboto-slab{
+    font-family: 'roboto slab', sans-serif;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.italic{
+    font-style: italic;
+}
+
+/*text style section*/
+
+
+
+.text-styles div{
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.h1{
+    Font-weight: 700;
+    font-family: ruda, sans-serif;
+    font-size: 26px;
+}
+
+.h2{
+    font-weight: 500;
+    font-family: ruda, sans-serif;
+    font-size: 18px;
+}
+
+.paragraph{
+    font-weight: 400;
+    font-family: 'roboto slab', sans-serif;
+    font-size: 14px;
+}
